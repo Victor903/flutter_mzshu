@@ -1,4 +1,4 @@
-package com.looku.fluttermzshu;
+package com.looku.mzshu;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
